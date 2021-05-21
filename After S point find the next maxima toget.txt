@@ -1,0 +1,4 @@
+After S point find the next maxima toget T point
+Find the baseline
+# search net for Find the slope/area of the st segment
+find heart rate using using 250*60 samples by r peak detection

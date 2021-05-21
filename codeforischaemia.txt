@@ -1,0 +1,4 @@
+find peak values for all the points
+then slice accordingly,
+take x+75 as step
+
