@@ -1,0 +1,14 @@
+1. Add check individual input to ppt
+2. Change graphs and future scope according to recent changes
+3. Abstract
+4. Main Report
+   1. Introduction
+   2. Objective
+   3. Scope 
+   4. Limitation
+   5. Features
+   6. Platform
+5. Software and Hardware requirement
+6. Source Code of the project(summary)
+7. Future Application
+8. Bibliography
